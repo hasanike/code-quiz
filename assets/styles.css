@@ -23,9 +23,34 @@ button {
 .outer-container {
     padding: 10px;
     height: 100vh;
-    
 }
 
-.top-bar {
+
+.top-bar p{
     float: right;
+}
+
+.inner-container {
+    height: 100%;
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quiz-intro {
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+
+}
+.quiz-intro p {
+    text-align: center;
+}
+.quiz-intro button {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
 }
