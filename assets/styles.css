@@ -1,0 +1,31 @@
+/* Global Declarations */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 128, 36);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+    color: white;
+    font-size: 12px;
+}
+
+button {
+    outline: none;
+    background-color: black;
+    color:purple;
+    font-size: 12px;
+}
+
+.outer-container {
+    padding: 10px;
+    height: 100vh;
+    
+}
+
+.top-bar {
+    float: right;
+}
