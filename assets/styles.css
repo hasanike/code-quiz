@@ -43,7 +43,7 @@ button {
     margin-bottom: 10%;
     margin-left: 10%;
     margin-right: 10%;
-    
+
 
 }
 .quiz-intro p {
@@ -53,4 +53,20 @@ button {
     display: block;
     width: 50%;
     margin: 0 auto;
+}
+
+.questions {
+    display:none
+}
+.results {
+    display: none;
+}
+
+
+.highscore{
+    display: block;
+}
+
+.highscore ol {
+    overflow: scroll;
 }
