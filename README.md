@@ -21,5 +21,6 @@ This assigment was to create a code quiz that meets the assignment criteria.
 - JavaScript
   
 ## Images
-
+- ![alt text](./assets/images/Screenshot%202024-03-04%20at%2012.33.49%20PM.png "Code quiz Beta")  
 ## Deployed
+https://hasanike.github.io/code-quiz/
