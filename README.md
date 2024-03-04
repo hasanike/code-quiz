@@ -21,4 +21,5 @@ This assigment was to create a code quiz that meets the assignment criteria.
 - JavaScript
   
 ## Images
+
 ## Deployed
